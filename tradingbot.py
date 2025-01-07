@@ -7,9 +7,9 @@ from alpaca_trade_api import REST
 from finbert_utils import estimate_sentiment
 
 
-API_KEY = "PKSOH43GUTVLEHRE17CG"
-API_SECRET = "tYB4vwkunShcJK7gC8nPIftKB6625WhT1feHySvw"
-BASE_URL = "https://paper-api.alpaca.markets/v2"
+API_KEY = "your-alpaca-api-key"
+API_SECRET = "your-alpaca-secret-key"
+BASE_URL = "your-alpaca-base-url"
 
 ALPACA_CREDS = {
     'API_KEY': API_KEY,
